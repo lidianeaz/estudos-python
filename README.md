@@ -3,8 +3,8 @@ Repositório criado para praticar lógica de programação e Python.
 
 ## 🚀 Conteúdos aprendidos
 - print()
-- input()
 - if e else
+- input()
 - while
 
 ## 📂 Arquivos
